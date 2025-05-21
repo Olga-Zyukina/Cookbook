@@ -2,7 +2,7 @@
 
 # Cookbook
 ## Сайт рецептов, многостраничный сайт
-## Recipe API https://www.themealdb.com/api.php
+Recipe API https://www.themealdb.com/api.php
 
 ## Используемые технологии 🛠️
 
