@@ -16,4 +16,4 @@
 - **HTML**
 - **SCSS**
 
-<div><img src="https://github.com/Olga-Zyukina/Coocbook/blob/main/Screenshot.png" title="Coocbook" alt="Coocbook"/></div>
+<div><img src="https://github.com/Olga-Zyukina/Coocbook/blob/main/Screenshot.png" title="Cookbook" alt="Cookbook"/></div>
